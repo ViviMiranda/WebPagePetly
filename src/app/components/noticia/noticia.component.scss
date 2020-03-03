@@ -1,0 +1,11 @@
+.noticia {
+    padding: 1.5rem;
+    border: 2px solid rgba($color: #000000, $alpha: .4);
+    margin-left: 2rem;
+    .titulo {
+        font-size: 1.5rem;
+    }
+    .fecha {
+        font-size: .8rem;
+    }
+}
